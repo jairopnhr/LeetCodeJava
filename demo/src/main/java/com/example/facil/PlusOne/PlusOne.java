@@ -14,7 +14,7 @@ public class PlusOne {
         
         }
       int[]newDigits = new int[digits.length + 1];
-      newDigits[1]=0;
+      newDigits[0]=1;
       return newDigits;
     }
 
