@@ -22,6 +22,7 @@ public class PalindromeNumber {
     public static void main(String[] args) {
         int  palindrome1 = 131 ;
         System.out.println(" o Numero "+palindrome1+ (isPalindrome(palindrome1) ?" É um palimodro":" Não é um palimodro") );
+    
     }
 
 }
