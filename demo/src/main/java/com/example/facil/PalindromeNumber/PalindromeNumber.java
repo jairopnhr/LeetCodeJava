@@ -16,8 +16,7 @@ public class PalindromeNumber {
             }
             left++;
             right--;
-        }
-        return true ;
+        }return true ;
     }
     public static void main(String[] args) {
         int  palindrome1 = 131 ;
